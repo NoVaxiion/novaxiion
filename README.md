@@ -19,7 +19,6 @@
     <br>I also serve on the ColorStack @ UConn E-Board as Social Media Chair—creating spaces where students feel seen and supported.
   </samp>
 
-  <br><br><br>
   <hr style="border:0; height:2px; background: linear-gradient(to right, #ff6a00, #ffb300);">
 
 <samp>
