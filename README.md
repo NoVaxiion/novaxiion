@@ -44,21 +44,16 @@
 <p align="left">
   <b><b><br><a href="https://github.com/NoVaxiion/AI4ALL-Crime-Prediction">Crime Prediction in Connecticut</a> | AI4ALL | Summer 2025</b><br>
   • Engineered a dual-model crime intelligence system on a 497K+ record dataset using LightGBM, achieving 76.7% forecasting accuracy with a custom recursive time-series engine.<br><br>
-
   • Developed a multi-class risk classifier (48.2% accuracy) and Resource Analytics module auditing police staffing and gender demographics.<br><br>
-
   • Deployed a Streamlit dashboard offering real-time forecasts, dynamic risk visualizations, and longitudinal officer trend analysis.<br><br>
 
   <b><b><br><a href="https://github.com/NoVaxiion/Formula-1-Hackathon/tree/main">F1 Chatbot</a> | HackUMass & Independent Project | Fall 2024</b><br>
   • Built a real-time Formula 1 intelligence assistant using RAG with OpenAI GPT models.<br><br>
-
   • Designed an ingestion pipeline transforming 70+ years of FIA archives into vector embeddings.<br><br>
-
   • Implemented hybrid reasoning with rules-based validation to prevent hallucinations.<br><br>
 
   <b><br><br><a href="https://github.com/NoVaxiion/CodePath-Projects">CodePath — Intermediate Web Development</a> | Fall 2025</b><br>
   • Completed a project-driven engineering fellowship focused on React, Vite, Node, and Supabase.<br><br>
-
   • Built 10+ end-to-end apps improving architecture, state management, and UI components.<br>
 </p>
 
