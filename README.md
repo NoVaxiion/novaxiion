@@ -11,7 +11,7 @@
   <br><br>
 
   <samp>
-    <b>About Me</b>
+<span style="font-size: 20px;"><b>About Me</b></span>
     <br>
     I'm passionate about building meaningful software, solving real-world problems with data,
     <br>and making tech more accessible, supportive, and community-driven.
