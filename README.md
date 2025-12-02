@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b>Kenneth Maeda</a></b>.
+    Hello there! I'm <b>[Kenneth Maeda](https://www.linkedin.com/in/kenneth-maeda/)</a></b>.
     <br>I'm a Computer Engineering Undergraduate Student from University of Connecticut<br>
 
 </samp>
