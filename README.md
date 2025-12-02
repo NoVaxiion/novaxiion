@@ -21,10 +21,20 @@
   </samp>
 
   <br><br><br>
-
+  
+<samp>
+    <span style="font-size: 24px;"><b>Education & Involvement</b></span>
+    <br>
+    • University of Connecticut — B.S. Computer Science<br>
+    • AI4ALL Ignite Student Fellow (Summer 2025)<br>
+    • NEXT Program by The Cigna Group (Summer 2025)<br>
+    • CodePath Intermediate Web Development Fellow (Fall 2025)<br>
+    • CodePath Technical Interview Prep Fellow (Summer 2024)
+  </samp>
+  
   <samp>
-    <span style="font-size: 24px;"><b>Selected Projects</b></span>
-    <br><br>
+    <span style="font-size: 24px;"><b>Projects</b></span>
+    <br><br><br>
 
   <b>Crime Prediction in Connecticut | AI4ALL | Summer 2025</b><br>
     • Engineered a dual-model crime intelligence system on a 497K+ record dataset using LightGBM, achieving 76.7% forecasting accuracy with a custom recursive time-series engine.<br>
@@ -43,15 +53,6 @@
 
   <br><br><br>
 
-  <samp>
-    <span style="font-size: 24px;"><b>Education & Involvement</b></span>
-    <br>
-    • University of Connecticut — B.S. Computer Science<br>
-    • AI4ALL Ignite Student Fellow (Summer 2025)<br>
-    • NEXT Program by The Cigna Group (Summer 2025)<br>
-    • CodePath Intermediate Web Development Fellow (Fall 2025)<br>
-    • CodePath Technical Interview Prep Fellow (Summer 2024)
-  </samp>
 </div>
 
 <br><br>
