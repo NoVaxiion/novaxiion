@@ -20,7 +20,8 @@
   </samp>
 
   <br><br><br>
-  
+  <hr style="border:0; height:2px; background: linear-gradient(to right, #ff6a00, #ffb300);">
+
 <samp>
     <span style="font-size: 50px;"><b>Education & Involvement</b></span>
     <br>
