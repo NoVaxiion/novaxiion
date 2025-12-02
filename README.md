@@ -1,5 +1,3 @@
-
-
 <samp>
 
 <div align="center">
