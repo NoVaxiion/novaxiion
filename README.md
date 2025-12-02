@@ -43,14 +43,14 @@
     <br>
     • Deployed a Streamlit dashboard offering real-time forecasts, dynamic risk visualizations, and longitudinal officer trend analysis.<br><br>
 <br><br>
-  <b>F1 Chatbot | HackUMass & Independent Project | Fall 2024</b><br>
+  <b><a href="https://github.com/NoVaxiion/Formula-1-Hackathon/tree/main">F1 Chatbot</a> | HackUMass & Independent Project | Fall 2024</b><br>
     • Built a real-time Formula 1 intelligence assistant using RAG with OpenAI GPT models, supporting natural-language queries over race results and telemetry.<br>
     <br>
     • Designed a structured ingestion pipeline transforming 70+ years of FIA archives into vector embeddings to enhance semantic recall.<br>
     <br>
     • Implemented a hybrid reasoning system combining LLM inference with rules-based validation to prevent hallucinations in technical topics.<br><br>
 <br><br>
-  <b>CodePath — Intermediate Web Development | Fall 2025</b><br>
+  <b><a href="https://github.com/NoVaxiion/CodePath-Projects">CodePath</a> — Intermediate Web Development | Fall 2025</b><br>
     • Completed an intensive, project-driven engineering fellowship focused on React, Vite, Node, and Supabase.<br>
     <br>
     • Built 10+ end-to-end apps (CryptoHustle, Crewmate Generator, Data Dashboard), strengthening component-driven architecture and state management.<br>
@@ -71,7 +71,7 @@
       <br>
       <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
       <br><br>
-      Current Project:<br>
+      Current Project in the Works:<br>
       <a href="https://github.com/NoVaxiion/AI4ALL-Crime-Prediction">Crime Prediction in Connecticut</a>
       <br><br>
       <a href="https://www.linkedin.com/in/kenneth-maeda/" target="_blank">
