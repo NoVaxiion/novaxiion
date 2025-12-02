@@ -34,7 +34,7 @@
 
   <samp>
     <span style="font-size: 50px;"><b>Projects</b></span>
-<br>
+<br><br>
 
   <b>Crime Prediction in Connecticut | AI4ALL | Summer 2025</b><br>
     • Engineered a dual-model crime intelligence system on a 497K+ record dataset using LightGBM, achieving 76.7% forecasting accuracy with a custom recursive time-series engine.<br>
