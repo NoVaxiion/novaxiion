@@ -1,9 +1,4 @@
-<style>
-  samp {
-    font-size: 14px !important;
-    line-height: 1.6;
-  }
-</style>
+
 
 <samp>
 
