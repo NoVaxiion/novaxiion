@@ -7,21 +7,23 @@
   <br><br>
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+</div>
 
-  <br><br>
+<br>
 
+<div align="left">
   <samp>
-    <span style="font-size: 20px;"><b>About Me</b></span>
+    <span style="font-size: 24px;"><b>About Me</b></span>
     <br>
     I'm passionate about building meaningful software, solving real-world problems with data,
     <br>and making tech more accessible, supportive, and community-driven.
     <br>I also serve on the ColorStack @ UConn E-Board as Social Media Chair—creating spaces where students feel seen and supported.
   </samp>
 
-  <br><br>
+  <br><br><br>
 
   <samp>
-    <span style="font-size: 20px;"><b>Selected Projects</b></span>
+    <span style="font-size: 24px;"><b>Selected Projects</b></span>
     <br><br>
 
   <b>Crime Prediction in Connecticut | AI4ALL | Summer 2025</b><br>
@@ -39,10 +41,10 @@
     • Built 10+ end-to-end apps (CryptoHustle, Crewmate Generator, Data Dashboard), strengthening component-driven architecture and state management.<br>
   </samp>
 
-  <br><br>
+  <br><br><br>
 
   <samp>
-    <span style="font-size: 20px;"><b>Education & Involvement</b></span>
+    <span style="font-size: 24px;"><b>Education & Involvement</b></span>
     <br>
     • University of Connecticut — B.S. Computer Science<br>
     • AI4ALL Ignite Student Fellow (Summer 2025)<br>
@@ -50,9 +52,11 @@
     • CodePath Intermediate Web Development Fellow (Fall 2025)<br>
     • CodePath Technical Interview Prep Fellow (Summer 2024)
   </samp>
+</div>
 
-  <br><br>
+<br><br>
 
+<div align="center">
   <details>
     <summary><b><samp>Light bonfire</samp></b></summary>
     <br>
