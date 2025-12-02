@@ -16,7 +16,7 @@
     <span style="font-size: 24px;"><b>About Me</b></span>
 I am proudly Guatemalan and a first-generation college student, shaped by a background in skilled trades from Construction General Labor to CNC Cabinet Making. I love cooking, baking, staying active in the gym, biking, and teaching myself automotive repair as I work on cars for maintenance. I’m dedicated to uplifting my community through advice, support, and being present for others.
     
-<br>I’m passionate about building meaningful software, solving real-world problems with data, and making technology more accessible, supportive, and community-centered. I also serve on the ColorStack @ UConn E-Board as Social Media Chair, creating spaces where students feel seen, valued, and empowered. Hope you enjoy the stay! :)
+I’m passionate about building meaningful software, solving real-world problems with data, and making technology more accessible, supportive, and community-centered. I also serve on the ColorStack @ UConn E-Board as Social Media Chair, creating spaces where students feel seen, valued, and empowered. Hope you enjoy the stay! :)
   </samp>
 
 <hr style="border:0; height:2px; background: linear-gradient(to right, #ff6a00, #ffb300);">
