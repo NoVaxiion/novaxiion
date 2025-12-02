@@ -39,15 +39,19 @@
     • Engineered a dual-model crime intelligence system on a 497K+ record dataset using LightGBM, achieving 76.7% forecasting accuracy with a custom recursive time-series engine.<br>
     <br>
     • Developed a multi-class risk classifier (48.2% accuracy) and a Resource Analytics module to audit police staffing levels and gender demographics.<br>
+    <br>
     • Deployed a Streamlit dashboard offering real-time forecasts, dynamic risk visualizations, and longitudinal officer trend analysis.<br><br>
 
   <b>F1 Chatbot | HackUMass & Independent Project | Fall 2024</b><br>
     • Built a real-time Formula 1 intelligence assistant using RAG with OpenAI GPT models, supporting natural-language queries over race results and telemetry.<br>
+    <br>
     • Designed a structured ingestion pipeline transforming 70+ years of FIA archives into vector embeddings to enhance semantic recall.<br>
+    <br>
     • Implemented a hybrid reasoning system combining LLM inference with rules-based validation to prevent hallucinations in technical topics.<br><br>
 
   <b>CodePath — Intermediate Web Development | Fall 2025</b><br>
     • Completed an intensive, project-driven engineering fellowship focused on React, Vite, Node, and Supabase.<br>
+    <br>
     • Built 10+ end-to-end apps (CryptoHustle, Crewmate Generator, Data Dashboard), strengthening component-driven architecture and state management.<br>
   </samp>
 
