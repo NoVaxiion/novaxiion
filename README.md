@@ -20,7 +20,7 @@
 <br>I’m passionate about building meaningful software, solving real-world problems with data, and making technology more accessible, supportive, and community-centered. I also serve on the ColorStack @ UConn E-Board as Social Media Chair, creating spaces where students feel seen, valued, and empowered. Hope you enjoy the stay! :)
   </samp>
 
-  <hr style="border:0; height:2px; background: linear-gradient(to right, #ff6a00, #ffb300);">
+<hr style="border:0; height:2px; background: linear-gradient(to right, #ff6a00, #ffb300);">
 
 <samp>
     <span style="font-size: 50px;"><b>Education & Involvement</b></span>
