@@ -36,7 +36,7 @@
     <span style="font-size: 50px;"><b>Projects</b></span>
 <br><br>
 
-  <b>Crime Prediction in Connecticut | AI4ALL | Summer 2025</b><br>
+  <b><a href="https://github.com/NoVaxiion/AI4ALL-Crime-Prediction">Crime Prediction in Connecticut</a> | AI4ALL | Summer 2025</b><br>
     • Engineered a dual-model crime intelligence system on a 497K+ record dataset using LightGBM, achieving 76.7% forecasting accuracy with a custom recursive time-series engine.<br>
     <br>
     • Developed a multi-class risk classifier (48.2% accuracy) and a Resource Analytics module to audit police staffing levels and gender demographics.<br>
