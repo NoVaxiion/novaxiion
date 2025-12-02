@@ -15,15 +15,14 @@
   <samp>
     <span style="font-size: 24px;"><b>About Me</b></span>
     <br>
-    I'm passionate about building meaningful software, solving real-world problems with data,
-    <br>and making tech more accessible, supportive, and community-driven.
+    I'm passionate about building meaningful software, solving real-world problems with data, and making tech more accessible, supportive, and community-driven.
     <br>I also serve on the ColorStack @ UConn E-Board as Social Media Chair—creating spaces where students feel seen and supported.
   </samp>
 
   <br><br><br>
   
 <samp>
-    <span style="font-size: 24px;"><b>Education & Involvement</b></span>
+    <span style="font-size: 50px;"><b>Education & Involvement</b></span>
     <br>
     • University of Connecticut — B.S. Computer Science<br>
     • AI4ALL Ignite Student Fellow (Summer 2025)<br>
@@ -33,7 +32,7 @@
   </samp>
   
   <samp>
-    <span style="font-size: 24px;"><b>Projects</b></span>
+    <span style="font-size: 50px;"><b>Projects</b></span>
     <br><br><br>
 
   <b>Crime Prediction in Connecticut | AI4ALL | Summer 2025</b><br>
