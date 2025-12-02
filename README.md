@@ -30,7 +30,8 @@
     • CodePath Intermediate Web Development Fellow (Fall 2025)<br>
     • CodePath Technical Interview Prep Fellow (Summer 2024)
   </samp>
-      <br><br><br>
+  <hr style="border:0; height:2px; background: linear-gradient(to right, #ff6a00, #ffb300);">
+
   <samp>
     <span style="font-size: 50px;"><b>Projects</b></span>
 <br>
