@@ -103,7 +103,9 @@
   <br>
 
   <b>
+    <a href="https://github.com/NoVaxiion/C-Sharp-Object-Oriented-Programming/tree/main/beetle_game_3">
     Beetle Game
+    </a>
     | C#, Object-Oriented Programming
   </b>
   <br>
