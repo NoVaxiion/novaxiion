@@ -78,7 +78,7 @@
   <br>
 
   <b>
-    <a href="[https://github.com/NoVaxiion/Formula-1-Hackathon](https://github.com/NoVaxiion/AlarmCast">
+    <a href="https://github.com/NoVaxiion/Formula-1-Hackathon](https://github.com/NoVaxiion/AlarmCast">
       AlarmCast
     </a>
     | Raspberry Pi, Python, TensorFlow Lite, Flask
