@@ -78,14 +78,15 @@
   <br>
 
   <b>
-    AlarmCast
+    <a href="[https://github.com/NoVaxiion/Formula-1-Hackathon](https://github.com/NoVaxiion/AlarmCast">
+      AlarmCast
+    </a>
     | Raspberry Pi, Python, TensorFlow Lite, Flask
   </b>
   <br>
   • Built a real-time edge-AI system that detects household alarm sounds and sends notifications through a connected application.<br>
   • Reduced audio-classification latency by 85%, from approximately 5 seconds to 0.75 seconds, using multithreading and a NumPy ring buffer.<br>
   • Integrated audio inference, verification, event logging, and notification-delivery workflows on a Raspberry Pi.<br>
-
   <br>
 
   <b>
