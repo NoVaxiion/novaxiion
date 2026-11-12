@@ -93,7 +93,7 @@
     <a href="https://github.com/NoVaxiion/Formula-1-Hackathon">
       Formula 1 RAG Assistant
     </a>
-    | React, Flask, Gemini, Pinecone
+    | Python, React, Flask, Gemini, Pinecone
   </b>
   <br>
   • Built a full-stack retrieval-augmented generation assistant for answering Formula 1 questions.<br>
