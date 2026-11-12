@@ -119,13 +119,16 @@
 
 <h2 align="left">Technical Skills</h2>
 
+
 <p align="left">
-  <b>Languages:</b> Python, C++, C#, JavaScript, TypeScript, SQL, C, HTML/CSS<br>
-  <b>Frameworks & Backend:</b> React, FastAPI, Flask, Node.js, REST APIs, Kafka, Docker<br>
-  <b>Cloud & Databases:</b> AWS, PostgreSQL, Redis, MongoDB, DynamoDB, Supabase<br>
-  <b>AI & Data:</b> PyTorch, TensorFlow Lite, scikit-learn, RAG, ETL Pipelines, Computer Vision<br>
-  <b>Tools:</b> Git, GitHub, Linux, Jira, Postman, CI/CD
+  <b>Languages:</b> Python, C++, JavaScript, TypeScript, C#, SQL, HTML, CSS<br>
+  <b>Backend & Web:</b> FastAPI, Flask, Node.js, React, REST APIs, pybind11<br>
+  <b>Cloud & Infrastructure:</b> AWS (Lambda, S3, DynamoDB), Docker, Kafka, Linux, CI/CD<br>
+  <b>Databases:</b> PostgreSQL, Redis, MongoDB, Supabase<br>
+  <b>Engineering Tools:</b> Git, GitHub, Jira, Postman, Unit Testing, Agile/Scrum<br>
+  <b>AI & Machine Learning:</b> Large Language Models (LLM), RAG, PyTorch, scikit-learn
 </p>
+
 
 <br>
 
